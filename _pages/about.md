@@ -37,6 +37,7 @@ Serving as a reviewer for conferences and journals including
 
 **NeurIPS, ICML, CVPR, ECCV, AAAI, ACM MM, IJCAI, TIP, TIFS, TMM, and PR**.
 
+
 # 📝 Selected Publications 
 <!--
 <div class='paper-box'>
@@ -123,6 +124,11 @@ Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25), **poster**.
 - *2024.09 - now*, PhD student, College of Computer Science, Sichuan University.
 - *2021.09 - 2024.06*, Master, College of Computer Science, Sichuan University. 
 - *2017.09 - 2021.06*, Bachelor, College of Software Engineering, Sichuan University. 
+
+
+# 💻 Internships
+- *2023.08 - 2023.09*, Intern at the Alibaba Cloud Security Department, Alibaba Group, Hangzhou, China.
+
 
 <!-- 
 # 🎖 Honors and Awards
