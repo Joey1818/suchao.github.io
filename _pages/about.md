@@ -27,8 +27,8 @@ My research mainly focuses on Cross-modal Retrieval, Multi-view Learning, Multi-
 # 🔥 News
 - *2026.03*: I will serve as a reviewer for NeurIPS 2026.
 - *2026.01*: I will serve as a reviewer for ECCV 2026. 
-- *2025.11*: &nbsp;🎉🎉 One paper was accepted as an **The AAAI Conference on Artificial Intelligence (AAAI-2026)** as **Oral) presentation**, see you in Singapore.
-- *2025.09*: &nbsp;🎉🎉 One paper was accepted by **The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025) as Spotlight (accepatance rate=3.19%)**!
+- *2025.11*: &nbsp;🎉🎉 One paper was accepted as an **AAAI-2026 Oral presentation**, see you in Singapore.
+- *2025.09*: &nbsp;🎉🎉 One paper was accepted by **NeurIPS 2025, Spotlight (accepatance rate=3.19%)**.
 
 
 # 📝 Publications 
@@ -63,6 +63,7 @@ My research mainly focuses on Cross-modal Retrieval, Multi-view Learning, Multi-
 <div class='paper-box-text' markdown="1">
 
 [Ambiguity-Tolerant Cross-Modal Hashing with Partial Labels](https://ojs.aaai.org/index.php/AAAI/article/view/39760)
+
 **Chao Su**, Yanan Li, Xu Wang, Yingke Chen, Huiming Zheng, Dezhong Peng, Yuan Sun
 
 Fourty AAAI Conference on Artificial Intelligence (AAAI-26),oral.
